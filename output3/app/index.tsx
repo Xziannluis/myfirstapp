@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#333",
     marginBottom: 5, 
+    top: 200,
   },
 
   footerTxt1: {
@@ -51,6 +52,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "#333",
     fontWeight: "bold",
+    top 200:,
   },
 });
 
